@@ -1,0 +1,6 @@
+{
+  "name": "Catch Craze Arcade",
+  "description": "An action-packed arcade falling objects catching game with procedural hazards, combo bonuses, Web Audio synthesis, particle bursts, and touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
